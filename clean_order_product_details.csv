@@ -1,0 +1,16 @@
+order_id,order_date,product_name,category,brand,quantity,unit_price,item_total,delivery_status,payment_method
+1961864118,17-07-2024 08:34,Pet Treats,Pet Care,Pillay-Ahuja,3,517.03,1551.09,On Time,Cash
+1549769649,28-05-2024 13:14,Orange Juice,Cold Drinks & Juices,Baral-Kamdar,1,881.42,881.42,On Time,Cash
+9185164487,23-09-2024 13:07,Eggs,Dairy & Breakfast,Prasad LLC,2,923.84,1847.68,On Time,UPI
+9644738826,24-11-2023 16:16,Orange Juice,Cold Drinks & Juices,Gupta Ltd,1,874.78,874.78,On Time,Card
+5427684290,20-11-2023 05:00,Nuts,Snacks & Munchies,Bahl-Pau,2,976.55,1953.1,On Time,Cash
+3265154092,18-03-2023 16:29,Mango Drink,Cold Drinks & Juices,Dass and Sons,1,321.28,321.28,On Time,UPI
+4898355547,16-04-2023 18:50,Vitamins,Pharmacy,"Pai, Kashyap and Ramachandran",3,517.77,1553.31,On Time,Card
+6568151549,31-03-2024 06:26,Bread,Dairy & Breakfast,Aggarwal Group,2,359.98,719.96,On Time,Cash
+6006693867,13-07-2023 23:49,Lotion,Personal Care,"Roy, Barad and De",1,80.25,80.25,On Time,Card
+374186990,09-08-2023 01:17,Pet Treats,Pet Care,"Khurana, Khosla and Yohannan",2,563.45,1126.9,Slightly Delayed,Wallet
+4455336265,30-08-2023 19:37,Shampoo,Personal Care,Sant-Mahajan,3,423.56,1270.68,On Time,UPI
+3539286337,25-04-2023 20:32,Lotion,Personal Care,"Sibal, Bhatnagar and Rajan",1,727.95,727.95,On Time,Wallet
+9171116867,22-10-2023 11:15,Bread,Dairy & Breakfast,Aggarwal Group,3,359.98,1079.94,Slightly Delayed,Card
+5504941865,28-01-2024 02:39,Popcorn,Snacks & Munchies,Golla-Luthra,1,317.05,317.05,Slightly Delayed,Wallet
+5868326481,15-03-2024 21:07,Rice,Grocery & Staples,Tella-Master,3,134.69,404.07,On Time,Wallet
